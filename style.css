@@ -151,52 +151,6 @@ h2{
     font-weight: bold;
 }
 
-/* .card1{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 30px;
-
-    padding: 30px 50px;
-    max-width: 1320px;
-    margin: 0 auto;
-}
-
-.card11{
-    background-color: #351165;
-    padding: 30px;
-    height: 480px;
-    border-radius: 20px;
-    text-align: left;
-}
-
-.card1 h1,h2,p{
-    text-align: left;
-    margin-top: 10px;
-}
-
-.card22{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.card21{
-    background-color: #351165;
-    padding: 30px;
-    height: 220px;
-    border-radius: 20px;
-    text-align: left;
-} */
-
-
-.card1{
-    background-color: #351165;
-    padding: 30px;
-    height: 480px;
-    border-radius: 20px;
-    text-align: left;
-}
 
 .card1 h1,h2,p{
     text-align: left;
