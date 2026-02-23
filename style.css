@@ -121,12 +121,9 @@ p{
 .cards{
     display: flex;
     gap: 60px;
-    /* max-width: 1320px; */
     justify-content: space-between;
     align-items: center;
-    /* flex-direction: column; */
     padding: 50px 20px;
-    /* text-align: center; */
 }
 
 .card h1{
