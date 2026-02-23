@@ -117,3 +117,74 @@ p{
     gap: 0px;
     background-color: #1A0B2E;
 }
+
+.cards{
+    display: flex;
+    gap: 60px;
+    /* max-width: 1320px; */
+    justify-content: space-between;
+    align-items: center;
+    /* flex-direction: column; */
+    padding: 50px 20px;
+    /* text-align: center; */
+}
+
+.card h1{
+    color: #00FF88;
+    text-align: center;
+}
+
+.card p{
+    color: white;
+    text-align: center;
+}
+
+.why-choose{
+    background-color: #230E3D;
+}
+
+
+h2{
+    color: #00FF88;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+
+    padding: 30px 50px;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.card11{
+    background-color: #351165;
+    padding: 30px;
+    height: 480px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.card1 h1,h2,p{
+    text-align: left;
+    margin-top: 10px;
+}
+
+.card22{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.card21{
+    background-color: #351165;
+    padding: 30px;
+    height: 220px;
+    border-radius: 20px;
+    text-align: left;
+}
