@@ -151,7 +151,7 @@ h2{
     font-weight: bold;
 }
 
-.card1{
+/* .card1{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -187,4 +187,18 @@ h2{
     height: 220px;
     border-radius: 20px;
     text-align: left;
+} */
+
+
+.card1{
+    background-color: #351165;
+    padding: 30px;
+    height: 480px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.card1 h1,h2,p{
+    text-align: left;
+    margin-top: 10px;
 }
